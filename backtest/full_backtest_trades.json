@@ -1,0 +1,155 @@
+{
+  "metrics": {
+    "total_trades": 7,
+    "winning_trades": 1,
+    "losing_trades": 6,
+    "win_rate": 0.14285714285714285,
+    "total_pnl": -2359.300000000003,
+    "total_pnl_pct": -8.113659085118151,
+    "avg_win": 1941.0999999999985,
+    "avg_loss": 716.7333333333336,
+    "profit_factor": 0.4513766161287317,
+    "max_win": 1941.0999999999985,
+    "max_loss": 1061.2000000000007,
+    "avg_holding_minutes": 6799.285714285715,
+    "sharpe_ratio": -4.768945976540897,
+    "max_drawdown": 6.825429695553284
+  },
+  "trades": [
+    {
+      "entry_time": 1683079200000000000,
+      "exit_time": 1683532800000000000,
+      "entry_price": 28426.2,
+      "exit_price": 27885.9,
+      "pnl": -540.2999999999993,
+      "pnl_pct": -1.90071131561728,
+      "holding_minutes": 7560.0,
+      "rsi_entry": 0.40472263806793174,
+      "stoch_entry": 16.473105134473624,
+      "ema_entry": 28488.535669750643,
+      "reason": "UNKNOWN"
+    },
+    {
+      "entry_time": 1683533700000000000,
+      "exit_time": 1683738900000000000,
+      "entry_price": 27931.4,
+      "exit_price": 27157.1,
+      "pnl": -774.3000000000029,
+      "pnl_pct": -2.7721489076809713,
+      "holding_minutes": 3420.0,
+      "rsi_entry": 0.17281710407638606,
+      "stoch_entry": 13.7322329206789,
+      "ema_entry": 28738.602998677936,
+      "reason": "UNKNOWN"
+    },
+    {
+      "entry_time": 1683739800000000000,
+      "exit_time": 1683870300000000000,
+      "entry_price": 27337.9,
+      "exit_price": 26276.7,
+      "pnl": -1061.2000000000007,
+      "pnl_pct": -3.8817904813464117,
+      "holding_minutes": 2175.0,
+      "rsi_entry": 0.1282190587105484,
+      "stoch_entry": 24.97043752463529,
+      "ema_entry": 27825.372018784954,
+      "reason": "UNKNOWN"
+    },
+    {
+      "entry_time": 1683871200000000000,
+      "exit_time": 1685315700000000000,
+      "entry_price": 26150.9,
+      "exit_price": 28092.0,
+      "pnl": 1941.0999999999985,
+      "pnl_pct": 7.422689085270481,
+      "holding_minutes": 24075.0,
+      "rsi_entry": 0.11555038057797162,
+      "stoch_entry": 15.051328502415537,
+      "ema_entry": 27281.384953700068,
+      "reason": "UNKNOWN"
+    },
+    {
+      "entry_time": 1685327400000000000,
+      "exit_time": 1685508300000000000,
+      "entry_price": 28119.6,
+      "exit_price": 27257.7,
+      "pnl": -861.8999999999978,
+      "pnl_pct": -3.0651218367259774,
+      "holding_minutes": 3015.0,
+      "rsi_entry": 0.5087658927978171,
+      "stoch_entry": 18.642785065589866,
+      "ema_entry": 27214.292330835196,
+      "reason": "UNKNOWN"
+    },
+    {
+      "entry_time": 1685509200000000000,
+      "exit_time": 1685665800000000000,
+      "entry_price": 27172.9,
+      "exit_price": 26726.0,
+      "pnl": -446.90000000000146,
+      "pnl_pct": -1.6446533126755019,
+      "holding_minutes": 2610.0,
+      "rsi_entry": 0.09236728394706062,
+      "stoch_entry": 1.2162403863350546,
+      "ema_entry": 27686.787922759817,
+      "reason": "UNKNOWN"
+    },
+    {
+      "entry_time": 1685693700000000000,
+      "exit_time": 1685978100000000000,
+      "entry_price": 27104.8,
+      "exit_price": 26489.0,
+      "pnl": -615.7999999999993,
+      "pnl_pct": -2.2719223163424904,
+      "holding_minutes": 4740.0,
+      "rsi_entry": 0.5177981897839903,
+      "stoch_entry": 21.05263157894771,
+      "ema_entry": 27052.63119029091,
+      "reason": "UNKNOWN"
+    }
+  ],
+  "equity_curve": [
+    {
+      "trade_num": 1,
+      "timestamp": 1683532800000000000,
+      "equity": 9459.7,
+      "cumulative_return": -5.4029999999999925
+    },
+    {
+      "trade_num": 2,
+      "timestamp": 1683738900000000000,
+      "equity": 8685.399999999998,
+      "cumulative_return": -13.146000000000022
+    },
+    {
+      "trade_num": 3,
+      "timestamp": 1683870300000000000,
+      "equity": 7624.199999999997,
+      "cumulative_return": -23.758000000000028
+    },
+    {
+      "trade_num": 4,
+      "timestamp": 1685315700000000000,
+      "equity": 9565.299999999996,
+      "cumulative_return": -4.347000000000044
+    },
+    {
+      "trade_num": 5,
+      "timestamp": 1685508300000000000,
+      "equity": 8703.399999999998,
+      "cumulative_return": -12.966000000000022
+    },
+    {
+      "trade_num": 6,
+      "timestamp": 1685665800000000000,
+      "equity": 8256.499999999996,
+      "cumulative_return": -17.435000000000038
+    },
+    {
+      "trade_num": 7,
+      "timestamp": 1685978100000000000,
+      "equity": 7640.699999999997,
+      "cumulative_return": -23.59300000000003
+    }
+  ]
+}
