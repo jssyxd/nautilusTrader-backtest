@@ -25,10 +25,10 @@
 
 | 文件 | 说明 |
 |------|------|
-| `rsi_snap_back_long.py` | 策略实现 |
-| `backtest_runner.py` | 回测引擎 + 3年/滚动窗口 |
-| `report_generator.py` | HTML 回测报告生成 |
-| `run_backtest.py` | 一键运行脚本 |
+| `strategies/rsi_snap_back_long.py` | 策略实现 |
+| `backtest/run_backtest.py` | 回测引擎 + 3年/滚动窗口 |
+| `backtest/report_generator.py` | HTML 回测报告生成 |
+| `scripts/convert_to_parquet.py` | CSV 转 Parquet 数据转换 |
 
 ---
 
